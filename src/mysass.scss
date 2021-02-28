@@ -1,0 +1,8 @@
+$myColor: rgb(115, 218, 255);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap' );
+
+h2 {
+    font-family: 'Roboto';
+    font-weight: 400;
+    color: $myColor;
+}
